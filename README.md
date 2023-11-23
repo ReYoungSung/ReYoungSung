@@ -1,6 +1,5 @@
-<a href="[http://melonicedlatte.com/](https://www.notion.so/4380105eeb904899824c9c479edd8035)">
-    <img src="https://img.shields.io/badge/라벨-메시지-red"
-        style="height : auto; margin-left : 8px; margin-right : 8px;"/>
+ <a href="mailto:sjy06238@naver.com">
+   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>
 
 
