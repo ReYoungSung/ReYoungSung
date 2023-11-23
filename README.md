@@ -2,10 +2,7 @@
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zaman17&color=dark)]([https://velog.io/@zaman17](https://www.notion.so/4380105eeb904899824c9c479edd8035)https://www.notion.so/4380105eeb904899824c9c479edd8035)
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReYoungSung&show_icons=true&theme=rose_pine)
 
 
