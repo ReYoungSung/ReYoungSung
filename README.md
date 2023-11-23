@@ -4,9 +4,7 @@
 
 <a href="https://www.notion.so/4380105eeb904899824c9c479edd8035?pvs=4“>
 
-
-
-<img src="https://img.shields.io/badge/Notion-E4405F?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/4380105eeb904899824c9c479edd8035?pvs=4"/></a>
+<a href="https://www.notion.so/4380105eeb904899824c9c479edd8035?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/4380105eeb904899824c9c479edd8035?pvs=4"/></a>
 
 
 
