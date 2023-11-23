@@ -2,7 +2,7 @@
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>
 
-<a href="https://www.notion.so/4380105eeb904899824c9c479edd8035?pvs=4“><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.notion.so/4380105eeb904899824c9c479edd8035?pvs=4"/></a>
+<a href="https://www.notion.so/4380105eeb904899824c9c479edd8035?pvs=4“><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/4380105eeb904899824c9c479edd8035?pvs=4"/></a>
 
 
 
