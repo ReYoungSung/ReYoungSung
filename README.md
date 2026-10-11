@@ -18,7 +18,7 @@
 
 <img src="./assets/soft-heading-tools.svg" width="100%" alt="손에 익은 도구" />
 
-<img src="./assets/white-tools-expanded.svg" width="100%" alt="Unity · C#: 게임·XR·인터랙티브 콘텐츠 구현 / Unreal Engine 5 · Blueprint: 블루프린트 기반 콘텐츠 제작 / UGUI · DOTween: UI 구성과 애니메이션·트윈 연출 / Unity ML-Agents: 강화학습 기반 동적 난이도 조절 / Meta Quest Pro · Eye Tracking: VR 콘텐츠와 시선 추적 상호작용 / Leap Motion: 손동작 인식 기반 상호작용 / OptiTrack · Motive: 모션캡처 데이터와 움직임 입력 / VFX: 음악·움직임에 반응하는 시각 효과 / JSON · CSV: 스테이지·학습 콘텐츠 데이터 구성 / Git · GitHub · Plastic SCM: 버전 관리와 팀 프로젝트 협업" />
+<img src="./assets/toolkit-experience-matrix.svg" width="100%" alt="게임 개발 기술 — 프로젝트 다수 경험: Unity/C#. 프로젝트 경험: Unity ML-Agents, Unreal Engine 5/Blueprint, Plastic SCM, Qt, C++, Maya. 기타 개발 관련 — 프로젝트 다수 경험: Git/GitHub, OptiTrack Motive. 프로젝트 경험: SVN, Python, Figma, Immersive Display Pro. 학습 경험: R, Firebase, C." />
 
 <img src="./assets/soft-heading-contact.svg" width="100%" alt="더 이야기해요" />
 
