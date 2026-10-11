@@ -1,8 +1,8 @@
-<img src="./assets/playful-title.svg" width="100%" alt="이영성 · Youngsung Ree — 만드는 즐거움, 플레이하는 재미." />
+<img src="./assets/project-profile-title.svg" width="100%" alt="이영성 · Youngsung Ree — 아이디어를 구현하고, 경험을 만듭니다." />
 
 Unity와 C#을 중심으로 게임, XR 인터랙션, 미디어 아트 프로젝트를 개발해 왔습니다. 시선 추적, 손동작, 모션캡처를 콘텐츠의 입력으로 활용하는 작업을 진행했습니다.
 
-<img src="./assets/soft-heading-projects.svg" width="100%" alt="만든 게임과 경험" />
+<img src="./assets/project-section-title.svg" width="100%" alt="프로젝트" />
 
 각 저장소의 README에서 프로젝트 배경, 개발 환경, 실행 방법을 확인할 수 있습니다.
 
