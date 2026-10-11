@@ -1,27 +1,22 @@
+<!-- Typography panels share one palette and spacing system. Each project panel links to its repository. -->
 <p align="center">
-  <img src="./assets/game-menu-header.svg" alt="Youngsung Ree — Unity / C# / XR — Game Developer" width="100%" />
+<img src="./assets/library-overview.svg" width="100%" alt="이영성 · Youngsung Ree — Unity 게임 개발 / XR 인터랙션. Unity, C#, ML-Agents, OptiTrack, Leap Motion. 한동대학교 ICT융합·상담심리." /><br/>
+<a href="https://github.com/ReYoungSung/Watchers"><img src="./assets/library-watchers.svg" width="100%" alt="WATCHERS — 시선을 플레이로 바꾸는 VR 디펜스. 코드와 사용법 열기" /></a><br/>
+<a href="https://github.com/ReYoungSung/DropCatBlaster"><img src="./assets/library-dropcat.svg" width="100%" alt="DropCatBlaster — 손끝으로 이어지는 모바일 펀치 액션. 코드와 사용법 열기" /></a><br/>
+<a href="https://github.com/ReYoungSung/LegendOfXR"><img src="./assets/library-legend.svg" width="100%" alt="LegendOfXR — XR 스튜디오를 배우는 가상 실습. 코드와 사용법 열기" /></a><br/>
+<a href="https://github.com/ReYoungSung/Wastrium"><img src="./assets/library-wastrium.svg" width="100%" alt="Wastrium — 몸으로 경험하는 환경 피드백. 코드와 사용법 열기" /></a><br/>
+<img src="./assets/library-achievements.svg" width="100%" alt="수상 이력: 2023 메타버스 개발자 경진대회 우수상 · 한국멀티미디어학회 우수논문상 · 메타버스 콘테스트 우수상 · 메타버스 에셋 공모전 창의력상" /><br/>
+<a href="https://maroon-beam-3eb.notion.site/115892c4c4f58067b887e470c152eb6d?source=copy_link"><img src="./assets/library-portfolio.svg" width="100%" alt="학부 포트폴리오 열기 — 역할, 개발 과정, 영상과 회고" /></a>
 </p>
 
-<h1 align="center">이영성 · Game Developer</h1>
-<p align="center">
-  <strong>새로운 기술을 게임과 연결하고, 움직임을 인터랙션으로 만듭니다.</strong><br/>
-  Unity · XR · 시선 추적 · 인터랙티브 미디어 아트
-</p>
+<p align="center"><a href="mailto:sjy06238@naver.com">Email</a> &nbsp; / &nbsp; <a href="https://www.notion.so/4380105eeb904899824c9c479edd8035?pvs=4">추가 포트폴리오</a> &nbsp; / &nbsp; <a href="https://github.com/ReYoungSung?tab=repositories">All repositories</a></p>
 
-<p align="center">
-  <a href="https://maroon-beam-3eb.notion.site/115892c4c4f58067b887e470c152eb6d?source=copy_link"><strong>▶ OPEN PORTFOLIO · 학부 포트폴리오</strong></a>
-</p>
-<p align="center">
-  <a href="mailto:sjy06238@naver.com"> Email</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.notion.so/4380105eeb904899824c9c479edd8035?pvs=4"> 추가 포트폴리오</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/ReYoungSung?tab=repositories"> Repositories</a>
-</p>
+<details>
+<summary>프로젝트 상세 · 더 많은 작업 · 텍스트로 보기</summary>
 
----
 
-## PLAYER PROFILE
+
+## Profile
 
 게임과 새로운 기술이 만나 재미있는 경험이 되는 순간을 좋아합니다. **Unity와 C#**을 중심으로 게임 플레이를 구현하고, 시선·손동작·모션캡처를 활용한 상호작용을 만들어 왔습니다.
 
@@ -108,3 +103,5 @@
   <em>BUILD · PLAY · ITERATE</em><br/>
   <a href="mailto:sjy06238@naver.com">sjy06238@naver.com</a>
 </p>
+
+</details>
