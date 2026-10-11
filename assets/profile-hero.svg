@@ -1,43 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
-<title id="title">Youngsung Ree — Games, XR and interactive experiences</title>
-<desc id="desc">Violet and mint orbital graphics on a midnight blue background. Building playful experiences.</desc>
-<defs>
-<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#11162d"/><stop offset="1" stop-color="#080e1d"/></linearGradient>
-<linearGradient id="accent" x2="1" y2=".6"><stop stop-color="#a997ff"/><stop offset=".55" stop-color="#d1c9ff"/><stop offset="1" stop-color="#6ce9cf"/></linearGradient>
-<radialGradient id="glow"><stop stop-color="#7b61ff" stop-opacity=".32"/><stop offset="1" stop-color="#7b61ff" stop-opacity="0"/></radialGradient>
-<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8290bd" stroke-opacity=".09"/></pattern>
-</defs>
-<rect width="1200" height="440" rx="24" fill="url(#bg)"/>
-<rect width="1200" height="440" rx="24" fill="url(#grid)"/>
-<circle cx="936" cy="214" r="250" fill="url(#glow)"/>
-<path d="M0 438H1200" stroke="#9a87ff" stroke-width="4"/>
-<g font-family="Arial, Helvetica, sans-serif">
-<circle cx="61" cy="53" r="5" fill="#74ead1"/>
-<text x="78" y="59" font-size="18" fill="#d9def1" letter-spacing="3">YOUNGSUNG REE</text>
-<text x="56" y="153" font-size="72" font-weight="700" fill="#f7f8ff" letter-spacing="-3">Building playful</text>
-<text x="56" y="231" font-size="72" font-weight="700" fill="url(#accent)" letter-spacing="-3">experiences.</text>
-<text x="60" y="283" font-size="21" fill="#abb5d2" letter-spacing="1">GAMES / XR / INTERACTIVE ART</text>
-<g font-size="14" letter-spacing="1.5">
-<rect x="56" y="335" width="124" height="36" rx="18" fill="#242344" stroke="#716297"/>
-<text x="118" y="358" fill="#e0d7ff" text-anchor="middle">UNITY + C#</text>
-<rect x="191" y="335" width="153" height="36" rx="18" fill="#153235" stroke="#346664"/>
-<text x="267.5" y="358" fill="#9cebd8" text-anchor="middle">EYE TRACKING</text>
-<rect x="355" y="335" width="152" height="36" rx="18" fill="#202a40" stroke="#465875"/>
-<text x="431" y="358" fill="#c9d5f3" text-anchor="middle">MOTION INPUT</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+<title id="title">Youngsung Ree — A collection of games and interactive works</title>
+<desc id="desc">An antique book title page in warm ivory, brown ink and muted brass, with a fine double border and botanical ornaments.</desc>
+<rect width="1200" height="460" fill="#f2eadb"/>
+<rect x="18" y="18" width="1164" height="424" fill="none" stroke="#89724c" stroke-width="1"/>
+<rect x="25" y="25" width="1150" height="410" fill="none" stroke="#89724c" stroke-width=".5"/>
+<g fill="none" stroke="#89724c" stroke-width="1.2">
+<path d="M50 98V50H98M1102 50H1150V98M50 362V410H98M1102 410H1150V362"/>
+<path d="M80 260Q100 211 78 158M80 240Q54 228 60 209Q81 215 85 226M86 216Q105 208 103 189Q86 193 86 207M85 195Q67 183 71 169Q84 177 85 185"/>
+<path d="M1120 260Q1100 211 1122 158M1120 240Q1146 228 1140 209Q1119 215 1115 226M1114 216Q1095 208 1097 189Q1114 193 1114 207M1115 195Q1133 183 1129 169Q1116 177 1115 185"/>
+<path d="M410 124H562M638 124H790M380 324H554M646 324H820"/>
+<path d="M585 124l15-8 15 8-15 8ZM576 324q12-15 24 0q12-15 24 0q-12 15-24 0q-12 15-24 0Z"/>
 </g>
-<text x="60" y="413" font-size="12" fill="#7f8aa8" letter-spacing="2">REYOUNGSUNG / CREATIVE DEVELOPMENT</text>
+<g text-anchor="middle" fill="#3e3027" font-family="Georgia, 'Times New Roman', serif">
+<text x="600" y="83" font-size="15" letter-spacing="5">A COLLECTION OF INTERACTIVE WORKS</text>
+<text x="600" y="212" font-size="76" letter-spacing="1">Youngsung Ree</text>
+<text x="600" y="262" font-size="25" font-style="italic" fill="#735a43">Games, motion &amp; the art of interaction</text>
+<text x="600" y="373" font-size="16" letter-spacing="4">UNITY  ·  XR  ·  CREATIVE DEVELOPMENT</text>
+<text x="600" y="406" font-size="12" letter-spacing="3" fill="#89724c">SELECTED WORKS &amp; EXPERIMENTS</text>
 </g>
-<g transform="translate(966 211)" fill="none">
-<circle r="136" stroke="#6d71b8" stroke-opacity=".25"/>
-<circle r="112" stroke="#8490c6" stroke-opacity=".35" stroke-dasharray="3 12"/>
-<ellipse rx="156" ry="58" transform="rotate(-34)" stroke="#a693ff" stroke-width="1.5"/>
-<ellipse rx="156" ry="58" transform="rotate(34)" stroke="#74ead1" stroke-width="1.5" opacity=".75"/>
-<path d="M-79 0Q0-78 79 0Q0 78-79 0Z" stroke="#d8d1ff" stroke-width="2"/>
-<circle r="30" stroke="#74ead1" stroke-width="2"/>
-<circle r="12" fill="#74ead1"/>
-<path d="M0-49V-37M0 37V49M-49 0H-37M37 0H49" stroke="#a693ff" stroke-width="2"/>
-<circle cx="-127" cy="77" r="7" fill="#a693ff"/><circle cx="128" cy="76" r="5" fill="#74ead1"/>
-<circle cx="102" cy="-105" r="4" fill="#f2c778"/>
-</g>
-<text x="966" y="391" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" letter-spacing="3" fill="#8c99bd">CODE × MOTION × PLAY</text>
 </svg>
