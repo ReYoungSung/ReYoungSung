@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Youngsung Ree — Game Developer</title><desc id="desc">Typography-only game menu in charcoal, white and editor blue. Unity, C sharp and XR.</desc>
+<rect width="1200" height="400" fill="#202124"/>
+<rect width="1200" height="42" fill="#303236"/>
+<path d="M0 42H1200M0 350H1200" stroke="#111214"/>
+<rect x="0" y="0" width="168" height="3" fill="#3d8bdf"/>
+<g font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#b4b7bd">
+<text x="24" y="27" fill="#f1f2f4">Game / Portfolio</text><text x="194" y="27">Projects</text><text x="285" y="27">Inspector</text>
+<text x="1168" y="27" text-anchor="end" font-family="'Courier New',monospace">REYOUNGSUNG</text>
+</g>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="48" y="106" font-size="14" fill="#80b9f4" letter-spacing="4">GAME DEVELOPER</text>
+<text x="43" y="184" font-size="66" font-weight="700" fill="#f4f4f4" letter-spacing="-2">YOUNGSUNG REE</text>
+<text x="48" y="226" font-size="20" fill="#aeb2b9">Gameplay. Interaction. Player experience.</text>
+<rect x="48" y="269" width="246" height="44" rx="2" fill="#2d6fba"/>
+<text x="171" y="297" font-size="15" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="1">SELECT PROJECT</text>
+<text x="320" y="297" font-size="14" fill="#aeb2b9" letter-spacing="1">UNITY / C# / XR</text>
+</g>
+<g font-family="'Courier New',monospace" font-size="13" fill="#aeb2b9">
+<text x="48" y="379">FOCUS: GAMEPLAY + HUMAN INPUT</text><text x="1152" y="379" text-anchor="end" fill="#80b9f4">BUILD · PLAY · ITERATE</text>
+</g></svg>
