@@ -8,23 +8,23 @@ Unity와 C#을 중심으로 게임, XR 인터랙션, 미디어 아트 프로젝�
 
 | PROJECT | PLAY EXPERIENCE |
 | :--- | :--- |
-| <a href="https://github.com/ReYoungSung/Watchers"><img src="./assets/clear-project-watchers.svg" width="210" alt="Watchers" /></a> | 시선 추적 기반 VR 판타지 디펜스 게임 |
-| <a href="https://github.com/ReYoungSung/LegendOfXR"><img src="./assets/clear-project-legend.svg" width="210" alt="LegendOfXR" /></a> | XR 스튜디오 교육·실습용 VR 콘텐츠 |
-| <a href="https://github.com/ReYoungSung/EyeWillCatch"><img src="./assets/clear-project-eye.svg" width="210" alt="EyeWillCatch" /></a> | 웹캠 시선 추적을 활용한 눈 재활운동 연구용 게임 |
-| <a href="https://github.com/ReYoungSung/Wastrium"><img src="./assets/clear-project-wastrium.svg" width="210" alt="Wastrium" /></a> | 모션캡처와 대형 스크린을 활용한 분리수거 XR 게임 |
-| <a href="https://github.com/ReYoungSung/Last_Symphony"><img src="./assets/clear-project-symphony.svg" width="210" alt="Last Symphony" /></a> | Leap Motion 손동작 기반 음악 시각화 |
-| <a href="https://github.com/ReYoungSung/Graduate-Media-Art"><img src="./assets/clear-project-graduate.svg" width="210" alt="Graduate-Media-Art — 활주로" /></a> | 졸업식 인터랙티브 미디어 아트 |
-| <a href="https://github.com/ReYoungSung/DropCatBlaster"><img src="./assets/clear-project-dropcat.svg" width="210" alt="DropCatBlaster" /></a> | Android 펀치 액션 디펜스 게임 |
-| <a href="https://github.com/ReYoungSung/English_Game"><img src="./assets/clear-project-english.svg" width="210" alt="English Game" /></a> | CSV 기반 영어 문장 학습 게임 |
+| <a href="https://github.com/ReYoungSung/Watchers"><img src="./assets/outline-project-watchers.svg" width="210" alt="Watchers" /></a> | 시선 추적 기반 VR 판타지 디펜스 게임 |
+| <a href="https://github.com/ReYoungSung/LegendOfXR"><img src="./assets/outline-project-legend.svg" width="210" alt="LegendOfXR" /></a> | XR 스튜디오 교육·실습용 VR 콘텐츠 |
+| <a href="https://github.com/ReYoungSung/EyeWillCatch"><img src="./assets/outline-project-eye.svg" width="210" alt="EyeWillCatch" /></a> | 웹캠 시선 추적을 활용한 눈 재활운동 연구용 게임 |
+| <a href="https://github.com/ReYoungSung/Wastrium"><img src="./assets/outline-project-wastrium.svg" width="210" alt="Wastrium" /></a> | 모션캡처와 대형 스크린을 활용한 분리수거 XR 게임 |
+| <a href="https://github.com/ReYoungSung/Last_Symphony"><img src="./assets/outline-project-symphony.svg" width="210" alt="Last Symphony" /></a> | Leap Motion 손동작 기반 음악 시각화 |
+| <a href="https://github.com/ReYoungSung/Graduate-Media-Art"><img src="./assets/outline-project-graduate.svg" width="210" alt="Graduate-Media-Art — 활주로" /></a> | 졸업식 인터랙티브 미디어 아트 |
+| <a href="https://github.com/ReYoungSung/DropCatBlaster"><img src="./assets/outline-project-dropcat.svg" width="210" alt="DropCatBlaster" /></a> | Android 펀치 액션 디펜스 게임 |
+| <a href="https://github.com/ReYoungSung/English_Game"><img src="./assets/outline-project-english.svg" width="210" alt="English Game" /></a> | CSV 기반 영어 문장 학습 게임 |
 
 <img src="./assets/soft-heading-tools.svg" width="100%" alt="손에 익은 도구" />
 
 | TOOL | IN PRACTICE |
 | :--- | :--- |
-| <img src="./assets/clear-tech-unity.svg" height="30" alt="Unity" /> <img src="./assets/clear-tech-csharp.svg" height="30" alt="C#" /> | 게임 플레이와 UI 구현 |
-| <img src="./assets/clear-tech-xr.svg" height="30" alt="VR / XR" /> | 시선과 움직임이 조작이 되는 경험 |
-| <img src="./assets/clear-tech-leap.svg" height="30" alt="Leap Motion" /> <img src="./assets/clear-tech-opti.svg" height="30" alt="OptiTrack" /> | 손동작과 몸의 움직임을 입력으로 |
-| <img src="./assets/clear-tech-vfx.svg" height="30" alt="VFX" /> | 음악과 움직임에 반응하는 미디어 아트 |
+| <img src="./assets/outline-tech-unity.svg" height="30" alt="Unity" /> <img src="./assets/outline-tech-csharp.svg" height="30" alt="C#" /> | 게임 플레이와 UI 구현 |
+| <img src="./assets/outline-tech-xr.svg" height="30" alt="VR / XR" /> | 시선과 움직임이 조작이 되는 경험 |
+| <img src="./assets/outline-tech-leap.svg" height="30" alt="Leap Motion" /> <img src="./assets/outline-tech-opti.svg" height="30" alt="OptiTrack" /> | 손동작과 몸의 움직임을 입력으로 |
+| <img src="./assets/outline-tech-vfx.svg" height="30" alt="VFX" /> | 음악과 움직임에 반응하는 미디어 아트 |
 
 <img src="./assets/soft-heading-contact.svg" width="100%" alt="더 이야기해요" />
 
