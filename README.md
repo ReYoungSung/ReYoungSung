@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Youngsung Ree — Selected games and interactive works" width="100%" />
+  <img src="https://raw.githubusercontent.com/ReYoungSung/ReYoungSung/09a8856f65e4cadd215e1b7176a17a69f4de2b94/assets/profile-hero.svg" alt="Youngsung Ree — Selected games and interactive works" width="100%" />
 </p>
 
 <h1 align="center">이영성 · Youngsung Ree</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://maroon-beam-3eb.notion.site/115892c4c4f58067b887e470c152eb6d?source=copy_link"><img src="./assets/portfolio-button.svg" width="350" alt="학부 포트폴리오 보기 — Notion" /></a>
+  <a href="https://maroon-beam-3eb.notion.site/115892c4c4f58067b887e470c152eb6d?source=copy_link"><img src="https://raw.githubusercontent.com/ReYoungSung/ReYoungSung/09a8856f65e4cadd215e1b7176a17a69f4de2b94/assets/portfolio-button.svg" width="350" alt="학부 포트폴리오 보기 — Notion" /></a>
 </p>
 <p align="center">
   <a href="mailto:sjy06238@naver.com"> Email</a>
@@ -33,7 +33,7 @@
 ## II. Tools & methods
 
 <p align="center">
-  <img src="./assets/tech-stack.svg" alt="Unity, C#, XR, ML-Agents, OptiTrack, VFX" width="100%" />
+  <img src="https://raw.githubusercontent.com/ReYoungSung/ReYoungSung/09a8856f65e4cadd215e1b7176a17a69f4de2b94/assets/tech-stack.svg" alt="Unity, C#, XR, ML-Agents, OptiTrack, VFX" width="100%" />
 </p>
 
 | 중심 기술 | 프로젝트에서 활용한 기술 |
