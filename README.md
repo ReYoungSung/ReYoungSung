@@ -9,7 +9,7 @@
 <a href="https://maroon-beam-3eb.notion.site/115892c4c4f58067b887e470c152eb6d?source=copy_link"><img src="./assets/library-portfolio.svg" width="100%" alt="학부 포트폴리오 열기 — 역할, 개발 과정, 영상과 회고" /></a>
 </p>
 
-<p align="center"><a href="mailto:sjy06238@naver.com">Email</a> &nbsp; / &nbsp; <a href="https://www.notion.so/4380105eeb904899824c9c479edd8035?pvs=4">추가 포트폴리오</a> &nbsp; / &nbsp; <a href="https://github.com/ReYoungSung?tab=repositories">All repositories</a></p>
+<p align="center"><a href="mailto:sjy06238@naver.com">Email</a> &nbsp; / &nbsp; <a href="https://github.com/ReYoungSung?tab=repositories">All repositories</a></p>
 
 <details>
 <summary>프로젝트 상세 · 더 많은 작업 · 텍스트로 보기</summary>
