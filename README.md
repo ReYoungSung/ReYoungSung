@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ReYoungSung/ReYoungSung/09a8856f65e4cadd215e1b7176a17a69f4de2b94/assets/profile-hero.svg" alt="Youngsung Ree — Selected games and interactive works" width="100%" />
+  <img src="./assets/journal-hero.svg" alt="Youngsung Ree — Selected games and interactive works" width="100%" />
 </p>
 
 <h1 align="center">이영성 · Youngsung Ree</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://maroon-beam-3eb.notion.site/115892c4c4f58067b887e470c152eb6d?source=copy_link"><img src="https://raw.githubusercontent.com/ReYoungSung/ReYoungSung/09a8856f65e4cadd215e1b7176a17a69f4de2b94/assets/portfolio-button.svg" width="350" alt="학부 포트폴리오 보기 — Notion" /></a>
+  <a href="https://maroon-beam-3eb.notion.site/115892c4c4f58067b887e470c152eb6d?source=copy_link"><img src="./assets/journal-archive.svg" width="380" alt="학부 포트폴리오 보기 — Notion" /></a>
 </p>
 <p align="center">
   <a href="mailto:sjy06238@naver.com"> Email</a>
@@ -21,7 +21,7 @@
 
 ---
 
-## I. About
+## 01 / Profile
 
 게임과 새로운 기술이 만나 재미있는 경험이 되는 순간을 좋아합니다. **Unity와 C#**을 중심으로 게임 플레이를 구현하고, 시선·손동작·모션캡처를 활용한 상호작용을 만들어 왔습니다.
 
@@ -30,10 +30,10 @@
 - **Research & collaboration** — 개발 PM 경험, Unity ML-Agents를 활용한 동적 난이도 조절(DDA)
 - **Academic background** — 한동대학교 ICT융합·상담심리 전공, 학부 Computer Graphics Lab 활동
 
-## II. Tools & methods
+## 02 / Instruments
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ReYoungSung/ReYoungSung/09a8856f65e4cadd215e1b7176a17a69f4de2b94/assets/tech-stack.svg" alt="Unity, C#, XR, ML-Agents, OptiTrack, VFX" width="100%" />
+  <img src="./assets/journal-tools.svg" alt="Unity, C#, XR, ML-Agents, OptiTrack, VFX" width="100%" />
 </p>
 
 | 중심 기술 | 프로젝트에서 활용한 기술 |
@@ -43,7 +43,7 @@
 | **Visual & Research** | VFX, Unity ML-Agents, Unreal Engine 5 / Blueprint |
 | **Collaboration** | Git · GitHub · Plastic SCM |
 
-## III. Selected works
+## 03 / Selected works
 
 <table>
 <tr>
@@ -84,7 +84,7 @@
 </tr>
 </table>
 
-## IV. Further studies
+## 04 / Field notes
 
 | 프로젝트 | 경험과 인터랙션 | 핵심 입력·기술 |
 | :--- | :--- | :--- |
@@ -93,7 +93,7 @@
 | [**활주로 · Graduate Media Art**](https://github.com/ReYoungSung/Graduate-Media-Art) | 졸업식 인터랙티브 미디어 아트 | OptiTrack · VFX |
 | [**English Game**](https://github.com/ReYoungSung/English_Game) | 단어를 조합하는 영어 문장 학습 | Unity · CSV |
 
-## V. Honours
+## 05 / Recognition
 
 | 성과 | 내용 |
 | :--- | :--- |
