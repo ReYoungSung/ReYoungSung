@@ -20,7 +20,7 @@ Unity와 C#을 중심으로 게임, XR 인터랙션, 미디어 아트 프로젝�
 
 <img src="./assets/soft-heading-tools.svg" width="100%" alt="손에 익은 도구" />
 
-<img src="./assets/white-tools-table.svg" width="100%" alt="Unity · C#: 게임 플레이와 UI 구현 / VR·XR: 시선과 움직임의 상호작용 / Leap Motion·OptiTrack: 손동작과 모션 입력 / VFX: 인터랙티브 미디어 아트" />
+<img src="./assets/white-tools-expanded.svg" width="100%" alt="Unity · C#: 게임·XR·인터랙티브 콘텐츠 구현 / Unreal Engine 5 · Blueprint: 블루프린트 기반 콘텐츠 제작 / UGUI · DOTween: UI 구성과 애니메이션·트윈 연출 / Unity ML-Agents: 강화학습 기반 동적 난이도 조절 / Meta Quest Pro · Eye Tracking: VR 콘텐츠와 시선 추적 상호작용 / Leap Motion: 손동작 인식 기반 상호작용 / OptiTrack · Motive: 모션캡처 데이터와 움직임 입력 / VFX: 음악·움직임에 반응하는 시각 효과 / JSON · CSV: 스테이지·학습 콘텐츠 데이터 구성 / Git · GitHub · Plastic SCM: 버전 관리와 팀 프로젝트 협업" />
 
 <img src="./assets/soft-heading-contact.svg" width="100%" alt="더 이야기해요" />
 
