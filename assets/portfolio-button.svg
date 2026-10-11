@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="58" viewBox="0 0 350 58" role="img" aria-labelledby="title">
+<title id="title">학부 포트폴리오 보기 — Notion</title>
+<defs><linearGradient id="g" x2="1"><stop stop-color="#7460dc"/><stop offset="1" stop-color="#4c4fa8"/></linearGradient></defs>
+<rect x="1" y="1" width="348" height="56" rx="14" fill="url(#g)" stroke="#b5a6ff"/>
+<rect x="17" y="16" width="26" height="26" rx="6" fill="#fff" fill-opacity=".16"/>
+<text x="30" y="35" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#fff" font-weight="bold">N</text>
+<text x="62" y="36" font-family="Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif" font-size="19" fill="#fff" font-weight="bold">학부 포트폴리오 보기</text>
+<path d="M307 36l13-13m-11 0h11v11" fill="none" stroke="#e4dfff" stroke-width="2"/>
+</svg>
