@@ -4,6 +4,8 @@ Unity와 C#을 중심으로 게임, XR 인터랙션, 미디어 아트 프로젝�
 
 <img src="./assets/soft-heading-projects.svg" width="100%" alt="만든 게임과 경험" />
 
+각 저장소의 README에서 프로젝트 배경, 개발 환경, 실행 방법을 확인할 수 있습니다.
+
 | PROJECT | PLAY EXPERIENCE |
 | :--- | :--- |
 | <a href="https://github.com/ReYoungSung/Watchers"><img src="./assets/clear-project-watchers.svg" width="210" alt="Watchers" /></a> | 시선 추적 기반 VR 판타지 디펜스 게임 |
@@ -14,8 +16,6 @@ Unity와 C#을 중심으로 게임, XR 인터랙션, 미디어 아트 프로젝�
 | <a href="https://github.com/ReYoungSung/Graduate-Media-Art"><img src="./assets/clear-project-graduate.svg" width="210" alt="Graduate-Media-Art — 활주로" /></a> | 졸업식 인터랙티브 미디어 아트 |
 | <a href="https://github.com/ReYoungSung/DropCatBlaster"><img src="./assets/clear-project-dropcat.svg" width="210" alt="DropCatBlaster" /></a> | Android 펀치 액션 디펜스 게임 |
 | <a href="https://github.com/ReYoungSung/English_Game"><img src="./assets/clear-project-english.svg" width="210" alt="English Game" /></a> | CSV 기반 영어 문장 학습 게임 |
-
-각 저장소의 README에서 프로젝트 배경, 개발 환경, 실행 방법을 확인할 수 있습니다.
 
 <img src="./assets/soft-heading-tools.svg" width="100%" alt="손에 익은 도구" />
 
