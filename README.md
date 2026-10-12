@@ -1,3 +1,5 @@
+**한국어** | [English](README.en.md)
+
 <img src="./assets/project-profile-title.svg" width="100%" alt="이영성 · Youngsung Ree — 아이디어를 구현하고, 경험을 만듭니다." />
 
 > **현재 석사과정 진행 중입니다.** 석사과정의 연구와 프로젝트를 반영해 포트폴리오를 업데이트할 예정입니다.
